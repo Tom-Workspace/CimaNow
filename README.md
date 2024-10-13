@@ -117,7 +117,7 @@ A powerful Python tool for scraping movies and series information from [CimaNow]
 ## Contact
 
 
-- **Created by ِ[Ahmed](https://t.me/BE_PY) - feel free to contact me!**
+- **Created by [Ahmed](https://t.me/BE_PY) - feel free to contact me!**
 
 
 <br/>
