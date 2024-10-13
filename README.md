@@ -17,7 +17,7 @@ A powerful Python tool for scraping movies and series information from [CimaNow]
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/YourUsername/CimaNow-Scraper.git
+   git clone https://github.com/Tom-Workspace/CimaNow.git
 
    
 ## Usage
@@ -117,7 +117,7 @@ A powerful Python tool for scraping movies and series information from [CimaNow]
 ## Contact
 
 
-- **Created by ِ[ahmed](https://t.me/BE_PY) - feel free to contact me!**
+- **Created by ِ[Ahmed](https://t.me/BE_PY) - feel free to contact me!**
 
 
 <br/>
