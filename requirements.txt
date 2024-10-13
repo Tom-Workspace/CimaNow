@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+base64
+requests
+selenium
+webdriver_manager
